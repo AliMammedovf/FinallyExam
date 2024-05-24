@@ -1,0 +1,17 @@
+C:\Users\ca.r215.10\Desktop\ExamCode\ExamCode.Data\bin\Debug\net8.0\ExamCode.Data.deps.json
+C:\Users\ca.r215.10\Desktop\ExamCode\ExamCode.Data\bin\Debug\net8.0\ExamCode.Data.runtimeconfig.json
+C:\Users\ca.r215.10\Desktop\ExamCode\ExamCode.Data\bin\Debug\net8.0\ExamCode.Data.dll
+C:\Users\ca.r215.10\Desktop\ExamCode\ExamCode.Data\bin\Debug\net8.0\ExamCode.Data.pdb
+C:\Users\ca.r215.10\Desktop\ExamCode\ExamCode.Data\bin\Debug\net8.0\ExamCode.Core.dll
+C:\Users\ca.r215.10\Desktop\ExamCode\ExamCode.Data\bin\Debug\net8.0\ExamCode.Core.pdb
+C:\Users\ca.r215.10\Desktop\ExamCode\ExamCode.Data\obj\Debug\net8.0\ExamCode.Data.csproj.AssemblyReference.cache
+C:\Users\ca.r215.10\Desktop\ExamCode\ExamCode.Data\obj\Debug\net8.0\ExamCode.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ca.r215.10\Desktop\ExamCode\ExamCode.Data\obj\Debug\net8.0\ExamCode.Data.AssemblyInfoInputs.cache
+C:\Users\ca.r215.10\Desktop\ExamCode\ExamCode.Data\obj\Debug\net8.0\ExamCode.Data.AssemblyInfo.cs
+C:\Users\ca.r215.10\Desktop\ExamCode\ExamCode.Data\obj\Debug\net8.0\ExamCode.Data.csproj.CoreCompileInputs.cache
+C:\Users\ca.r215.10\Desktop\ExamCode\ExamCode.Data\obj\Debug\net8.0\ExamCode.F80B4A81.Up2Date
+C:\Users\ca.r215.10\Desktop\ExamCode\ExamCode.Data\obj\Debug\net8.0\ExamCode.Data.dll
+C:\Users\ca.r215.10\Desktop\ExamCode\ExamCode.Data\obj\Debug\net8.0\refint\ExamCode.Data.dll
+C:\Users\ca.r215.10\Desktop\ExamCode\ExamCode.Data\obj\Debug\net8.0\ExamCode.Data.pdb
+C:\Users\ca.r215.10\Desktop\ExamCode\ExamCode.Data\obj\Debug\net8.0\ExamCode.Data.genruntimeconfig.cache
+C:\Users\ca.r215.10\Desktop\ExamCode\ExamCode.Data\obj\Debug\net8.0\ref\ExamCode.Data.dll

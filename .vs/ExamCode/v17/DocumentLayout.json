@@ -1,0 +1,785 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ca.r215.10\\Desktop\\ExamCode\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B9CC55FD-16F6-4266-98B8-6C41FBFDC1B6}|ExamCode\\ExamCode.csproj|c:\\users\\ca.r215.10\\desktop\\examcode\\examcode\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B9CC55FD-16F6-4266-98B8-6C41FBFDC1B6}|ExamCode\\ExamCode.csproj|solutionrelative:examcode\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9CC55FD-16F6-4266-98B8-6C41FBFDC1B6}|ExamCode\\ExamCode.csproj|c:\\users\\ca.r215.10\\desktop\\examcode\\examcode\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B9CC55FD-16F6-4266-98B8-6C41FBFDC1B6}|ExamCode\\ExamCode.csproj|solutionrelative:examcode\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9CC55FD-16F6-4266-98B8-6C41FBFDC1B6}|ExamCode\\ExamCode.csproj|c:\\users\\ca.r215.10\\desktop\\examcode\\examcode\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9CC55FD-16F6-4266-98B8-6C41FBFDC1B6}|ExamCode\\ExamCode.csproj|solutionrelative:examcode\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9CC55FD-16F6-4266-98B8-6C41FBFDC1B6}|ExamCode\\ExamCode.csproj|c:\\users\\ca.r215.10\\desktop\\examcode\\examcode\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B9CC55FD-16F6-4266-98B8-6C41FBFDC1B6}|ExamCode\\ExamCode.csproj|solutionrelative:examcode\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9CC55FD-16F6-4266-98B8-6C41FBFDC1B6}|ExamCode\\ExamCode.csproj|c:\\users\\ca.r215.10\\desktop\\examcode\\examcode\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B9CC55FD-16F6-4266-98B8-6C41FBFDC1B6}|ExamCode\\ExamCode.csproj|solutionrelative:examcode\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9CC55FD-16F6-4266-98B8-6C41FBFDC1B6}|ExamCode\\ExamCode.csproj|c:\\users\\ca.r215.10\\desktop\\examcode\\examcode\\views\\user\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B9CC55FD-16F6-4266-98B8-6C41FBFDC1B6}|ExamCode\\ExamCode.csproj|solutionrelative:examcode\\views\\user\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{788BA6F3-F218-410D-9484-9A8D2ADDCE95}|ExamCode.Data\\ExamCode.Data.csproj|c:\\users\\ca.r215.10\\desktop\\examcode\\examcode.data\\repositoryconcret\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{788BA6F3-F218-410D-9484-9A8D2ADDCE95}|ExamCode.Data\\ExamCode.Data.csproj|solutionrelative:examcode.data\\repositoryconcret\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9CC55FD-16F6-4266-98B8-6C41FBFDC1B6}|ExamCode\\ExamCode.csproj|c:\\users\\ca.r215.10\\desktop\\examcode\\examcode\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9CC55FD-16F6-4266-98B8-6C41FBFDC1B6}|ExamCode\\ExamCode.csproj|solutionrelative:examcode\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9CC55FD-16F6-4266-98B8-6C41FBFDC1B6}|ExamCode\\ExamCode.csproj|c:\\users\\ca.r215.10\\desktop\\examcode\\examcode\\viewmodels\\userloginvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9CC55FD-16F6-4266-98B8-6C41FBFDC1B6}|ExamCode\\ExamCode.csproj|solutionrelative:examcode\\viewmodels\\userloginvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9CC55FD-16F6-4266-98B8-6C41FBFDC1B6}|ExamCode\\ExamCode.csproj|c:\\users\\ca.r215.10\\desktop\\examcode\\examcode\\areas\\admin\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9CC55FD-16F6-4266-98B8-6C41FBFDC1B6}|ExamCode\\ExamCode.csproj|solutionrelative:examcode\\areas\\admin\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9CC55FD-16F6-4266-98B8-6C41FBFDC1B6}|ExamCode\\ExamCode.csproj|c:\\users\\ca.r215.10\\desktop\\examcode\\examcode\\viewmodels\\adminloginvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9CC55FD-16F6-4266-98B8-6C41FBFDC1B6}|ExamCode\\ExamCode.csproj|solutionrelative:examcode\\viewmodels\\adminloginvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9CC55FD-16F6-4266-98B8-6C41FBFDC1B6}|ExamCode\\ExamCode.csproj|c:\\users\\ca.r215.10\\desktop\\examcode\\examcode\\viewmodels\\userregistervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9CC55FD-16F6-4266-98B8-6C41FBFDC1B6}|ExamCode\\ExamCode.csproj|solutionrelative:examcode\\viewmodels\\userregistervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9CC55FD-16F6-4266-98B8-6C41FBFDC1B6}|ExamCode\\ExamCode.csproj|c:\\users\\ca.r215.10\\desktop\\examcode\\examcode\\areas\\admin\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B9CC55FD-16F6-4266-98B8-6C41FBFDC1B6}|ExamCode\\ExamCode.csproj|solutionrelative:examcode\\areas\\admin\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9CC55FD-16F6-4266-98B8-6C41FBFDC1B6}|ExamCode\\ExamCode.csproj|c:\\users\\ca.r215.10\\desktop\\examcode\\examcode\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9CC55FD-16F6-4266-98B8-6C41FBFDC1B6}|ExamCode\\ExamCode.csproj|solutionrelative:examcode\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9CC55FD-16F6-4266-98B8-6C41FBFDC1B6}|ExamCode\\ExamCode.csproj|c:\\users\\ca.r215.10\\desktop\\examcode\\examcode\\areas\\admin\\controllers\\explorecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9CC55FD-16F6-4266-98B8-6C41FBFDC1B6}|ExamCode\\ExamCode.csproj|solutionrelative:examcode\\areas\\admin\\controllers\\explorecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9CC55FD-16F6-4266-98B8-6C41FBFDC1B6}|ExamCode\\ExamCode.csproj|c:\\users\\ca.r215.10\\desktop\\examcode\\examcode\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9CC55FD-16F6-4266-98B8-6C41FBFDC1B6}|ExamCode\\ExamCode.csproj|solutionrelative:examcode\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9CC55FD-16F6-4266-98B8-6C41FBFDC1B6}|ExamCode\\ExamCode.csproj|c:\\users\\ca.r215.10\\desktop\\examcode\\examcode\\areas\\admin\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B9CC55FD-16F6-4266-98B8-6C41FBFDC1B6}|ExamCode\\ExamCode.csproj|solutionrelative:examcode\\areas\\admin\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9CC55FD-16F6-4266-98B8-6C41FBFDC1B6}|ExamCode\\ExamCode.csproj|c:\\users\\ca.r215.10\\desktop\\examcode\\examcode\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9CC55FD-16F6-4266-98B8-6C41FBFDC1B6}|ExamCode\\ExamCode.csproj|solutionrelative:examcode\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ca.r215.10\\Desktop\\ExamCode\\ExamCode.Data\\Migrations\\20240524115734_UsersTablecreated.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ExamCode.Data\\Migrations\\20240524115734_UsersTablecreated.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{788BA6F3-F218-410D-9484-9A8D2ADDCE95}|ExamCode.Data\\ExamCode.Data.csproj|c:\\users\\ca.r215.10\\desktop\\examcode\\examcode.data\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{788BA6F3-F218-410D-9484-9A8D2ADDCE95}|ExamCode.Data\\ExamCode.Data.csproj|solutionrelative:examcode.data\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F011924-22FA-47CF-B091-6FEA37757EB2}|ExamCode.Core\\ExamCode.Core.csproj|c:\\users\\ca.r215.10\\desktop\\examcode\\examcode.core\\models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F011924-22FA-47CF-B091-6FEA37757EB2}|ExamCode.Core\\ExamCode.Core.csproj|solutionrelative:examcode.core\\models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9CC55FD-16F6-4266-98B8-6C41FBFDC1B6}|ExamCode\\ExamCode.csproj|c:\\users\\ca.r215.10\\desktop\\examcode\\examcode\\areas\\admin\\views\\explore\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B9CC55FD-16F6-4266-98B8-6C41FBFDC1B6}|ExamCode\\ExamCode.csproj|solutionrelative:examcode\\areas\\admin\\views\\explore\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9CC55FD-16F6-4266-98B8-6C41FBFDC1B6}|ExamCode\\ExamCode.csproj|c:\\users\\ca.r215.10\\desktop\\examcode\\examcode\\areas\\admin\\views\\explore\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B9CC55FD-16F6-4266-98B8-6C41FBFDC1B6}|ExamCode\\ExamCode.csproj|solutionrelative:examcode\\areas\\admin\\views\\explore\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9CC55FD-16F6-4266-98B8-6C41FBFDC1B6}|ExamCode\\ExamCode.csproj|c:\\users\\ca.r215.10\\desktop\\examcode\\examcode\\areas\\admin\\views\\explore\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B9CC55FD-16F6-4266-98B8-6C41FBFDC1B6}|ExamCode\\ExamCode.csproj|solutionrelative:examcode\\areas\\admin\\views\\explore\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9CC55FD-16F6-4266-98B8-6C41FBFDC1B6}|ExamCode\\ExamCode.csproj|c:\\users\\ca.r215.10\\desktop\\examcode\\examcode\\areas\\admin\\views\\explore\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B9CC55FD-16F6-4266-98B8-6C41FBFDC1B6}|ExamCode\\ExamCode.csproj|solutionrelative:examcode\\areas\\admin\\views\\explore\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA9C9C67-FD0F-4336-87D6-0E731ABBA278}|ExamCode.Business\\ExamCode.Business.csproj|c:\\users\\ca.r215.10\\desktop\\examcode\\examcode.business\\services\\concret\\exploreservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA9C9C67-FD0F-4336-87D6-0E731ABBA278}|ExamCode.Business\\ExamCode.Business.csproj|solutionrelative:examcode.business\\services\\concret\\exploreservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA9C9C67-FD0F-4336-87D6-0E731ABBA278}|ExamCode.Business\\ExamCode.Business.csproj|c:\\users\\ca.r215.10\\desktop\\examcode\\examcode.business\\services\\abstract\\iexploreservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA9C9C67-FD0F-4336-87D6-0E731ABBA278}|ExamCode.Business\\ExamCode.Business.csproj|solutionrelative:examcode.business\\services\\abstract\\iexploreservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA9C9C67-FD0F-4336-87D6-0E731ABBA278}|ExamCode.Business\\ExamCode.Business.csproj|c:\\users\\ca.r215.10\\desktop\\examcode\\examcode.business\\exceptions\\filenotexsistexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA9C9C67-FD0F-4336-87D6-0E731ABBA278}|ExamCode.Business\\ExamCode.Business.csproj|solutionrelative:examcode.business\\exceptions\\filenotexsistexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA9C9C67-FD0F-4336-87D6-0E731ABBA278}|ExamCode.Business\\ExamCode.Business.csproj|c:\\users\\ca.r215.10\\desktop\\examcode\\examcode.business\\exceptions\\idnullexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA9C9C67-FD0F-4336-87D6-0E731ABBA278}|ExamCode.Business\\ExamCode.Business.csproj|solutionrelative:examcode.business\\exceptions\\idnullexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA9C9C67-FD0F-4336-87D6-0E731ABBA278}|ExamCode.Business\\ExamCode.Business.csproj|c:\\users\\ca.r215.10\\desktop\\examcode\\examcode.business\\exceptions\\filesizeexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA9C9C67-FD0F-4336-87D6-0E731ABBA278}|ExamCode.Business\\ExamCode.Business.csproj|solutionrelative:examcode.business\\exceptions\\filesizeexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA9C9C67-FD0F-4336-87D6-0E731ABBA278}|ExamCode.Business\\ExamCode.Business.csproj|c:\\users\\ca.r215.10\\desktop\\examcode\\examcode.business\\exceptions\\filecontentexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA9C9C67-FD0F-4336-87D6-0E731ABBA278}|ExamCode.Business\\ExamCode.Business.csproj|solutionrelative:examcode.business\\exceptions\\filecontentexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA9C9C67-FD0F-4336-87D6-0E731ABBA278}|ExamCode.Business\\ExamCode.Business.csproj|c:\\users\\ca.r215.10\\desktop\\examcode\\examcode.business\\exceptions\\filenullexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA9C9C67-FD0F-4336-87D6-0E731ABBA278}|ExamCode.Business\\ExamCode.Business.csproj|solutionrelative:examcode.business\\exceptions\\filenullexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA9C9C67-FD0F-4336-87D6-0E731ABBA278}|ExamCode.Business\\ExamCode.Business.csproj|c:\\users\\ca.r215.10\\desktop\\examcode\\examcode.business\\examcode.business.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{AA9C9C67-FD0F-4336-87D6-0E731ABBA278}|ExamCode.Business\\ExamCode.Business.csproj|solutionrelative:examcode.business\\examcode.business.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{788BA6F3-F218-410D-9484-9A8D2ADDCE95}|ExamCode.Data\\ExamCode.Data.csproj|c:\\users\\ca.r215.10\\desktop\\examcode\\examcode.data\\repositoryconcret\\explorerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{788BA6F3-F218-410D-9484-9A8D2ADDCE95}|ExamCode.Data\\ExamCode.Data.csproj|solutionrelative:examcode.data\\repositoryconcret\\explorerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F011924-22FA-47CF-B091-6FEA37757EB2}|ExamCode.Core\\ExamCode.Core.csproj|c:\\users\\ca.r215.10\\desktop\\examcode\\examcode.core\\repositoryabstract\\iexplorerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F011924-22FA-47CF-B091-6FEA37757EB2}|ExamCode.Core\\ExamCode.Core.csproj|solutionrelative:examcode.core\\repositoryabstract\\iexplorerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F011924-22FA-47CF-B091-6FEA37757EB2}|ExamCode.Core\\ExamCode.Core.csproj|c:\\users\\ca.r215.10\\desktop\\examcode\\examcode.core\\repositoryabstract\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F011924-22FA-47CF-B091-6FEA37757EB2}|ExamCode.Core\\ExamCode.Core.csproj|solutionrelative:examcode.core\\repositoryabstract\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F011924-22FA-47CF-B091-6FEA37757EB2}|ExamCode.Core\\ExamCode.Core.csproj|c:\\users\\ca.r215.10\\desktop\\examcode\\examcode.core\\models\\explore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F011924-22FA-47CF-B091-6FEA37757EB2}|ExamCode.Core\\ExamCode.Core.csproj|solutionrelative:examcode.core\\models\\explore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9CC55FD-16F6-4266-98B8-6C41FBFDC1B6}|ExamCode\\ExamCode.csproj|c:\\users\\ca.r215.10\\desktop\\examcode\\examcode\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B9CC55FD-16F6-4266-98B8-6C41FBFDC1B6}|ExamCode\\ExamCode.csproj|solutionrelative:examcode\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F011924-22FA-47CF-B091-6FEA37757EB2}|ExamCode.Core\\ExamCode.Core.csproj|c:\\users\\ca.r215.10\\desktop\\examcode\\examcode.core\\models\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F011924-22FA-47CF-B091-6FEA37757EB2}|ExamCode.Core\\ExamCode.Core.csproj|solutionrelative:examcode.core\\models\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9CC55FD-16F6-4266-98B8-6C41FBFDC1B6}|ExamCode\\ExamCode.csproj|c:\\users\\ca.r215.10\\desktop\\examcode\\examcode\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B9CC55FD-16F6-4266-98B8-6C41FBFDC1B6}|ExamCode\\ExamCode.csproj|solutionrelative:examcode\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9CC55FD-16F6-4266-98B8-6C41FBFDC1B6}|ExamCode\\ExamCode.csproj|c:\\users\\ca.r215.10\\desktop\\examcode\\examcode\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B9CC55FD-16F6-4266-98B8-6C41FBFDC1B6}|ExamCode\\ExamCode.csproj|solutionrelative:examcode\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9CC55FD-16F6-4266-98B8-6C41FBFDC1B6}|ExamCode\\ExamCode.csproj|c:\\users\\ca.r215.10\\desktop\\examcode\\examcode\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B9CC55FD-16F6-4266-98B8-6C41FBFDC1B6}|ExamCode\\ExamCode.csproj|solutionrelative:examcode\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9CC55FD-16F6-4266-98B8-6C41FBFDC1B6}|ExamCode\\ExamCode.csproj|c:\\users\\ca.r215.10\\desktop\\examcode\\examcode\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{B9CC55FD-16F6-4266-98B8-6C41FBFDC1B6}|ExamCode\\ExamCode.csproj|solutionrelative:examcode\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\ca.r215.10\\Desktop\\ExamCode\\ExamCode\\Views\\User\\Login.cshtml",
+              "RelativeDocumentMoniker": "ExamCode\\Views\\User\\Login.cshtml",
+              "ToolTip": "C:\\Users\\ca.r215.10\\Desktop\\ExamCode\\ExamCode\\Views\\User\\Login.cshtml",
+              "RelativeToolTip": "ExamCode\\Views\\User\\Login.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAACIAAABcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-24T13:11:51.985Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\ca.r215.10\\Desktop\\ExamCode\\ExamCode\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "ExamCode\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\ca.r215.10\\Desktop\\ExamCode\\ExamCode\\Controllers\\UserController.cs",
+              "RelativeToolTip": "ExamCode\\Controllers\\UserController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABUAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T13:09:55.764Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UserLoginVm.cs",
+              "DocumentMoniker": "C:\\Users\\ca.r215.10\\Desktop\\ExamCode\\ExamCode\\ViewModels\\UserLoginVm.cs",
+              "RelativeDocumentMoniker": "ExamCode\\ViewModels\\UserLoginVm.cs",
+              "ToolTip": "C:\\Users\\ca.r215.10\\Desktop\\ExamCode\\ExamCode\\ViewModels\\UserLoginVm.cs",
+              "RelativeToolTip": "ExamCode\\ViewModels\\UserLoginVm.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T13:08:20.33Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\ca.r215.10\\Desktop\\ExamCode\\ExamCode\\Views\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "ExamCode\\Views\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Users\\ca.r215.10\\Desktop\\ExamCode\\ExamCode\\Views\\Account\\Register.cshtml",
+              "RelativeToolTip": "ExamCode\\Views\\Account\\Register.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAABkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-24T13:02:01.255Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\ca.r215.10\\Desktop\\ExamCode\\ExamCode\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "ExamCode\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\ca.r215.10\\Desktop\\ExamCode\\ExamCode\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "ExamCode\\Controllers\\AccountController.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAA9wCkAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T12:51:16.212Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\ca.r215.10\\Desktop\\ExamCode\\ExamCode\\Areas\\Admin\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "ExamCode\\Areas\\Admin\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\ca.r215.10\\Desktop\\ExamCode\\ExamCode\\Areas\\Admin\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "ExamCode\\Areas\\Admin\\Controllers\\AccountController.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAswBUAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T12:02:59.383Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AdminLoginVm.cs",
+              "DocumentMoniker": "C:\\Users\\ca.r215.10\\Desktop\\ExamCode\\ExamCode\\ViewModels\\AdminLoginVm.cs",
+              "RelativeDocumentMoniker": "ExamCode\\ViewModels\\AdminLoginVm.cs",
+              "ToolTip": "C:\\Users\\ca.r215.10\\Desktop\\ExamCode\\ExamCode\\ViewModels\\AdminLoginVm.cs",
+              "RelativeToolTip": "ExamCode\\ViewModels\\AdminLoginVm.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T12:01:18.82Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ca.r215.10\\Desktop\\ExamCode\\ExamCode.Data\\RepositoryConcret\\GenericRepository.cs",
+              "RelativeDocumentMoniker": "ExamCode.Data\\RepositoryConcret\\GenericRepository.cs",
+              "ToolTip": "C:\\Users\\ca.r215.10\\Desktop\\ExamCode\\ExamCode.Data\\RepositoryConcret\\GenericRepository.cs",
+              "RelativeToolTip": "ExamCode.Data\\RepositoryConcret\\GenericRepository.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAowBIAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T10:44:51.185Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ca.r215.10\\Desktop\\ExamCode\\ExamCode\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "ExamCode\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ca.r215.10\\Desktop\\ExamCode\\ExamCode\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "ExamCode\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAACwAAABJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-24T10:08:41.628Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\ca.r215.10\\Desktop\\ExamCode\\ExamCode\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "ExamCode\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\ca.r215.10\\Desktop\\ExamCode\\ExamCode\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "ExamCode\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAABrAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-24T10:09:28.3Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\ca.r215.10\\Desktop\\ExamCode\\ExamCode\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "ExamCode\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\ca.r215.10\\Desktop\\ExamCode\\ExamCode\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "ExamCode\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAGcAAAAAAAAAAAAUwHwAAABOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-24T10:17:11.548Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UserRegisterVm.cs",
+              "DocumentMoniker": "C:\\Users\\ca.r215.10\\Desktop\\ExamCode\\ExamCode\\ViewModels\\UserRegisterVm.cs",
+              "RelativeDocumentMoniker": "ExamCode\\ViewModels\\UserRegisterVm.cs",
+              "ToolTip": "C:\\Users\\ca.r215.10\\Desktop\\ExamCode\\ExamCode\\ViewModels\\UserRegisterVm.cs",
+              "RelativeToolTip": "ExamCode\\ViewModels\\UserRegisterVm.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T12:48:14.094Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\ca.r215.10\\Desktop\\ExamCode\\ExamCode\\Areas\\Admin\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "ExamCode\\Areas\\Admin\\Views\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\ca.r215.10\\Desktop\\ExamCode\\ExamCode\\Areas\\Admin\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "ExamCode\\Areas\\Admin\\Views\\Account\\Login.cshtml",
+              "ViewState": "AQIAAFEAAAAAAAAAAAAUwGQAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-24T12:14:56.03Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "20240524115734_UsersTablecreated.cs",
+              "DocumentMoniker": "C:\\Users\\ca.r215.10\\Desktop\\ExamCode\\ExamCode.Data\\Migrations\\20240524115734_UsersTablecreated.cs",
+              "RelativeDocumentMoniker": "ExamCode.Data\\Migrations\\20240524115734_UsersTablecreated.cs",
+              "ToolTip": "C:\\Users\\ca.r215.10\\Desktop\\ExamCode\\ExamCode.Data\\Migrations\\20240524115734_UsersTablecreated.cs",
+              "RelativeToolTip": "ExamCode.Data\\Migrations\\20240524115734_UsersTablecreated.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T11:57:34.783Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ExploreController.cs",
+              "DocumentMoniker": "C:\\Users\\ca.r215.10\\Desktop\\ExamCode\\ExamCode\\Areas\\Admin\\Controllers\\ExploreController.cs",
+              "RelativeDocumentMoniker": "ExamCode\\Areas\\Admin\\Controllers\\ExploreController.cs",
+              "ToolTip": "C:\\Users\\ca.r215.10\\Desktop\\ExamCode\\ExamCode\\Areas\\Admin\\Controllers\\ExploreController.cs",
+              "RelativeToolTip": "ExamCode\\Areas\\Admin\\Controllers\\ExploreController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T11:09:54.34Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "DashboardController.cs",
+              "DocumentMoniker": "C:\\Users\\ca.r215.10\\Desktop\\ExamCode\\ExamCode\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "RelativeDocumentMoniker": "ExamCode\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "ToolTip": "C:\\Users\\ca.r215.10\\Desktop\\ExamCode\\ExamCode\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "RelativeToolTip": "ExamCode\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T10:17:30.523Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ca.r215.10\\Desktop\\ExamCode\\ExamCode\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "RelativeDocumentMoniker": "ExamCode\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ca.r215.10\\Desktop\\ExamCode\\ExamCode\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "RelativeToolTip": "ExamCode\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "ViewState": "AQIAACEBAAAAAAAAAAAmwDQBAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-24T10:17:46.645Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\ca.r215.10\\Desktop\\ExamCode\\ExamCode\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "ExamCode\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\ca.r215.10\\Desktop\\ExamCode\\ExamCode\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "ExamCode\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T10:08:12.238Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "AppUser.cs",
+              "DocumentMoniker": "C:\\Users\\ca.r215.10\\Desktop\\ExamCode\\ExamCode.Core\\Models\\AppUser.cs",
+              "RelativeDocumentMoniker": "ExamCode.Core\\Models\\AppUser.cs",
+              "ToolTip": "C:\\Users\\ca.r215.10\\Desktop\\ExamCode\\ExamCode.Core\\Models\\AppUser.cs",
+              "RelativeToolTip": "ExamCode.Core\\Models\\AppUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T11:54:54.049Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "C:\\Users\\ca.r215.10\\Desktop\\ExamCode\\ExamCode\\Areas\\Admin\\Views\\Explore\\Update.cshtml",
+              "RelativeDocumentMoniker": "ExamCode\\Areas\\Admin\\Views\\Explore\\Update.cshtml",
+              "ToolTip": "C:\\Users\\ca.r215.10\\Desktop\\ExamCode\\ExamCode\\Areas\\Admin\\Views\\Explore\\Update.cshtml",
+              "RelativeToolTip": "ExamCode\\Areas\\Admin\\Views\\Explore\\Update.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAABNAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-24T11:25:47.026Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ca.r215.10\\Desktop\\ExamCode\\ExamCode\\Areas\\Admin\\Views\\Explore\\Index.cshtml",
+              "RelativeDocumentMoniker": "ExamCode\\Areas\\Admin\\Views\\Explore\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ca.r215.10\\Desktop\\ExamCode\\ExamCode\\Areas\\Admin\\Views\\Explore\\Index.cshtml",
+              "RelativeToolTip": "ExamCode\\Areas\\Admin\\Views\\Explore\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACUAAACSAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-24T11:10:07.963Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\ca.r215.10\\Desktop\\ExamCode\\ExamCode\\Areas\\Admin\\Views\\Explore\\Delete.cshtml",
+              "RelativeDocumentMoniker": "ExamCode\\Areas\\Admin\\Views\\Explore\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\ca.r215.10\\Desktop\\ExamCode\\ExamCode\\Areas\\Admin\\Views\\Explore\\Delete.cshtml",
+              "RelativeToolTip": "ExamCode\\Areas\\Admin\\Views\\Explore\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAABcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-24T11:25:28.003Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\ca.r215.10\\Desktop\\ExamCode\\ExamCode\\Areas\\Admin\\Views\\Explore\\Create.cshtml",
+              "RelativeDocumentMoniker": "ExamCode\\Areas\\Admin\\Views\\Explore\\Create.cshtml",
+              "ToolTip": "C:\\Users\\ca.r215.10\\Desktop\\ExamCode\\ExamCode\\Areas\\Admin\\Views\\Explore\\Create.cshtml",
+              "RelativeToolTip": "ExamCode\\Areas\\Admin\\Views\\Explore\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-24T11:25:04.447Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "FileNotExsistException.cs",
+              "DocumentMoniker": "C:\\Users\\ca.r215.10\\Desktop\\ExamCode\\ExamCode.Business\\Exceptions\\FileNotExsistException.cs",
+              "RelativeDocumentMoniker": "ExamCode.Business\\Exceptions\\FileNotExsistException.cs",
+              "ToolTip": "C:\\Users\\ca.r215.10\\Desktop\\ExamCode\\ExamCode.Business\\Exceptions\\FileNotExsistException.cs",
+              "RelativeToolTip": "ExamCode.Business\\Exceptions\\FileNotExsistException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T11:04:29.885Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ExploreService.cs",
+              "DocumentMoniker": "C:\\Users\\ca.r215.10\\Desktop\\ExamCode\\ExamCode.Business\\Services\\Concret\\ExploreService.cs",
+              "RelativeDocumentMoniker": "ExamCode.Business\\Services\\Concret\\ExploreService.cs",
+              "ToolTip": "C:\\Users\\ca.r215.10\\Desktop\\ExamCode\\ExamCode.Business\\Services\\Concret\\ExploreService.cs",
+              "RelativeToolTip": "ExamCode.Business\\Services\\Concret\\ExploreService.cs",
+              "ViewState": "AQIAAFIAAAAAAAAAAAAcwFIAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T10:52:03.762Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ca.r215.10\\Desktop\\ExamCode\\ExamCode\\Program.cs",
+              "RelativeDocumentMoniker": "ExamCode\\Program.cs",
+              "ToolTip": "C:\\Users\\ca.r215.10\\Desktop\\ExamCode\\ExamCode\\Program.cs",
+              "RelativeToolTip": "ExamCode\\Program.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAAADoAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T10:11:48.922Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\ca.r215.10\\Desktop\\ExamCode\\ExamCode.Data\\DAL\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "ExamCode.Data\\DAL\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\ca.r215.10\\Desktop\\ExamCode\\ExamCode.Data\\DAL\\AppDbContext.cs",
+              "RelativeToolTip": "ExamCode.Data\\DAL\\AppDbContext.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABUAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T10:25:43.303Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "IdNullException.cs",
+              "DocumentMoniker": "C:\\Users\\ca.r215.10\\Desktop\\ExamCode\\ExamCode.Business\\Exceptions\\IdNullException.cs",
+              "RelativeDocumentMoniker": "ExamCode.Business\\Exceptions\\IdNullException.cs",
+              "ToolTip": "C:\\Users\\ca.r215.10\\Desktop\\ExamCode\\ExamCode.Business\\Exceptions\\IdNullException.cs",
+              "RelativeToolTip": "ExamCode.Business\\Exceptions\\IdNullException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T10:56:42.01Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "FileSizeException.cs",
+              "DocumentMoniker": "C:\\Users\\ca.r215.10\\Desktop\\ExamCode\\ExamCode.Business\\Exceptions\\FileSizeException.cs",
+              "RelativeDocumentMoniker": "ExamCode.Business\\Exceptions\\FileSizeException.cs",
+              "ToolTip": "C:\\Users\\ca.r215.10\\Desktop\\ExamCode\\ExamCode.Business\\Exceptions\\FileSizeException.cs",
+              "RelativeToolTip": "ExamCode.Business\\Exceptions\\FileSizeException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T10:56:12.401Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "FileContentException.cs",
+              "DocumentMoniker": "C:\\Users\\ca.r215.10\\Desktop\\ExamCode\\ExamCode.Business\\Exceptions\\FileContentException.cs",
+              "RelativeDocumentMoniker": "ExamCode.Business\\Exceptions\\FileContentException.cs",
+              "ToolTip": "C:\\Users\\ca.r215.10\\Desktop\\ExamCode\\ExamCode.Business\\Exceptions\\FileContentException.cs",
+              "RelativeToolTip": "ExamCode.Business\\Exceptions\\FileContentException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T10:55:45.652Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "IExploreService.cs",
+              "DocumentMoniker": "C:\\Users\\ca.r215.10\\Desktop\\ExamCode\\ExamCode.Business\\Services\\Abstract\\IExploreService.cs",
+              "RelativeDocumentMoniker": "ExamCode.Business\\Services\\Abstract\\IExploreService.cs",
+              "ToolTip": "C:\\Users\\ca.r215.10\\Desktop\\ExamCode\\ExamCode.Business\\Services\\Abstract\\IExploreService.cs",
+              "RelativeToolTip": "ExamCode.Business\\Services\\Abstract\\IExploreService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T10:49:39.154Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "FileNullException.cs",
+              "DocumentMoniker": "C:\\Users\\ca.r215.10\\Desktop\\ExamCode\\ExamCode.Business\\Exceptions\\FileNullException.cs",
+              "RelativeDocumentMoniker": "ExamCode.Business\\Exceptions\\FileNullException.cs",
+              "ToolTip": "C:\\Users\\ca.r215.10\\Desktop\\ExamCode\\ExamCode.Business\\Exceptions\\FileNullException.cs",
+              "RelativeToolTip": "ExamCode.Business\\Exceptions\\FileNullException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T10:55:12.88Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "ExamCode.Business",
+              "DocumentMoniker": "C:\\Users\\ca.r215.10\\Desktop\\ExamCode\\ExamCode.Business\\ExamCode.Business.csproj",
+              "RelativeDocumentMoniker": "ExamCode.Business\\ExamCode.Business.csproj",
+              "ToolTip": "C:\\Users\\ca.r215.10\\Desktop\\ExamCode\\ExamCode.Business\\ExamCode.Business.csproj",
+              "RelativeToolTip": "ExamCode.Business\\ExamCode.Business.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-24T10:53:02.647Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "ExploreRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ca.r215.10\\Desktop\\ExamCode\\ExamCode.Data\\RepositoryConcret\\ExploreRepository.cs",
+              "RelativeDocumentMoniker": "ExamCode.Data\\RepositoryConcret\\ExploreRepository.cs",
+              "ToolTip": "C:\\Users\\ca.r215.10\\Desktop\\ExamCode\\ExamCode.Data\\RepositoryConcret\\ExploreRepository.cs",
+              "RelativeToolTip": "ExamCode.Data\\RepositoryConcret\\ExploreRepository.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T10:48:15.762Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "IExploreRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ca.r215.10\\Desktop\\ExamCode\\ExamCode.Core\\RepositoryAbstract\\IExploreRepository.cs",
+              "RelativeDocumentMoniker": "ExamCode.Core\\RepositoryAbstract\\IExploreRepository.cs",
+              "ToolTip": "C:\\Users\\ca.r215.10\\Desktop\\ExamCode\\ExamCode.Core\\RepositoryAbstract\\IExploreRepository.cs",
+              "RelativeToolTip": "ExamCode.Core\\RepositoryAbstract\\IExploreRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T10:43:55.62Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "IGenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ca.r215.10\\Desktop\\ExamCode\\ExamCode.Core\\RepositoryAbstract\\IGenericRepository.cs",
+              "RelativeDocumentMoniker": "ExamCode.Core\\RepositoryAbstract\\IGenericRepository.cs",
+              "ToolTip": "C:\\Users\\ca.r215.10\\Desktop\\ExamCode\\ExamCode.Core\\RepositoryAbstract\\IGenericRepository.cs",
+              "RelativeToolTip": "ExamCode.Core\\RepositoryAbstract\\IGenericRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T10:42:07.575Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ca.r215.10\\Desktop\\ExamCode\\ExamCode\\appsettings.json",
+              "RelativeDocumentMoniker": "ExamCode\\appsettings.json",
+              "ToolTip": "C:\\Users\\ca.r215.10\\Desktop\\ExamCode\\ExamCode\\appsettings.json",
+              "RelativeToolTip": "ExamCode\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAACpAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-24T10:35:56.379Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\ca.r215.10\\Desktop\\ExamCode\\ExamCode.Core\\Models\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "ExamCode.Core\\Models\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\ca.r215.10\\Desktop\\ExamCode\\ExamCode.Core\\Models\\BaseEntity.cs",
+              "RelativeToolTip": "ExamCode.Core\\Models\\BaseEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T10:32:55.951Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Explore.cs",
+              "DocumentMoniker": "C:\\Users\\ca.r215.10\\Desktop\\ExamCode\\ExamCode.Core\\Models\\Explore.cs",
+              "RelativeDocumentMoniker": "ExamCode.Core\\Models\\Explore.cs",
+              "ToolTip": "C:\\Users\\ca.r215.10\\Desktop\\ExamCode\\ExamCode.Core\\Models\\Explore.cs",
+              "RelativeToolTip": "ExamCode.Core\\Models\\Explore.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T10:32:30.502Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\ca.r215.10\\Desktop\\ExamCode\\ExamCode\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "ExamCode\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\ca.r215.10\\Desktop\\ExamCode\\ExamCode\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "ExamCode\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-24T10:16:47.905Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\ca.r215.10\\Desktop\\ExamCode\\ExamCode\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "ExamCode\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\ca.r215.10\\Desktop\\ExamCode\\ExamCode\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "ExamCode\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-24T10:16:06.461Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "ScaffoldingReadMe.txt",
+              "DocumentMoniker": "C:\\Users\\ca.r215.10\\Desktop\\ExamCode\\ExamCode\\ScaffoldingReadMe.txt",
+              "RelativeDocumentMoniker": "ExamCode\\ScaffoldingReadMe.txt",
+              "ToolTip": "C:\\Users\\ca.r215.10\\Desktop\\ExamCode\\ExamCode\\ScaffoldingReadMe.txt",
+              "RelativeToolTip": "ExamCode\\ScaffoldingReadMe.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-05-24T10:15:03.609Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\ca.r215.10\\Desktop\\ExamCode\\ExamCode\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "ExamCode\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\ca.r215.10\\Desktop\\ExamCode\\ExamCode\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "ExamCode\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-24T10:08:28.552Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1459,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1459,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1459,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

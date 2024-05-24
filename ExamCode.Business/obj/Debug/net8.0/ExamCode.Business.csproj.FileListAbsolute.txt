@@ -1,0 +1,17 @@
+C:\Users\ca.r215.10\Desktop\ExamCode\ExamCode.Business\bin\Debug\net8.0\ExamCode.Business.deps.json
+C:\Users\ca.r215.10\Desktop\ExamCode\ExamCode.Business\bin\Debug\net8.0\ExamCode.Business.dll
+C:\Users\ca.r215.10\Desktop\ExamCode\ExamCode.Business\bin\Debug\net8.0\ExamCode.Business.pdb
+C:\Users\ca.r215.10\Desktop\ExamCode\ExamCode.Business\bin\Debug\net8.0\ExamCode.Core.dll
+C:\Users\ca.r215.10\Desktop\ExamCode\ExamCode.Business\bin\Debug\net8.0\ExamCode.Data.dll
+C:\Users\ca.r215.10\Desktop\ExamCode\ExamCode.Business\bin\Debug\net8.0\ExamCode.Data.pdb
+C:\Users\ca.r215.10\Desktop\ExamCode\ExamCode.Business\bin\Debug\net8.0\ExamCode.Core.pdb
+C:\Users\ca.r215.10\Desktop\ExamCode\ExamCode.Business\obj\Debug\net8.0\ExamCode.Business.csproj.AssemblyReference.cache
+C:\Users\ca.r215.10\Desktop\ExamCode\ExamCode.Business\obj\Debug\net8.0\ExamCode.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ca.r215.10\Desktop\ExamCode\ExamCode.Business\obj\Debug\net8.0\ExamCode.Business.AssemblyInfoInputs.cache
+C:\Users\ca.r215.10\Desktop\ExamCode\ExamCode.Business\obj\Debug\net8.0\ExamCode.Business.AssemblyInfo.cs
+C:\Users\ca.r215.10\Desktop\ExamCode\ExamCode.Business\obj\Debug\net8.0\ExamCode.Business.csproj.CoreCompileInputs.cache
+C:\Users\ca.r215.10\Desktop\ExamCode\ExamCode.Business\obj\Debug\net8.0\ExamCode.A444E9F7.Up2Date
+C:\Users\ca.r215.10\Desktop\ExamCode\ExamCode.Business\obj\Debug\net8.0\ExamCode.Business.dll
+C:\Users\ca.r215.10\Desktop\ExamCode\ExamCode.Business\obj\Debug\net8.0\refint\ExamCode.Business.dll
+C:\Users\ca.r215.10\Desktop\ExamCode\ExamCode.Business\obj\Debug\net8.0\ExamCode.Business.pdb
+C:\Users\ca.r215.10\Desktop\ExamCode\ExamCode.Business\obj\Debug\net8.0\ref\ExamCode.Business.dll

@@ -1,0 +1,12 @@
+C:\Users\ca.r215.10\Desktop\ExamCode\ExamCode.Core\bin\Debug\net8.0\ExamCode.Core.deps.json
+C:\Users\ca.r215.10\Desktop\ExamCode\ExamCode.Core\bin\Debug\net8.0\ExamCode.Core.dll
+C:\Users\ca.r215.10\Desktop\ExamCode\ExamCode.Core\bin\Debug\net8.0\ExamCode.Core.pdb
+C:\Users\ca.r215.10\Desktop\ExamCode\ExamCode.Core\obj\Debug\net8.0\ExamCode.Core.csproj.AssemblyReference.cache
+C:\Users\ca.r215.10\Desktop\ExamCode\ExamCode.Core\obj\Debug\net8.0\ExamCode.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ca.r215.10\Desktop\ExamCode\ExamCode.Core\obj\Debug\net8.0\ExamCode.Core.AssemblyInfoInputs.cache
+C:\Users\ca.r215.10\Desktop\ExamCode\ExamCode.Core\obj\Debug\net8.0\ExamCode.Core.AssemblyInfo.cs
+C:\Users\ca.r215.10\Desktop\ExamCode\ExamCode.Core\obj\Debug\net8.0\ExamCode.Core.csproj.CoreCompileInputs.cache
+C:\Users\ca.r215.10\Desktop\ExamCode\ExamCode.Core\obj\Debug\net8.0\ExamCode.Core.dll
+C:\Users\ca.r215.10\Desktop\ExamCode\ExamCode.Core\obj\Debug\net8.0\refint\ExamCode.Core.dll
+C:\Users\ca.r215.10\Desktop\ExamCode\ExamCode.Core\obj\Debug\net8.0\ExamCode.Core.pdb
+C:\Users\ca.r215.10\Desktop\ExamCode\ExamCode.Core\obj\Debug\net8.0\ref\ExamCode.Core.dll
